@@ -1,0 +1,8 @@
+{
+    "name": "wonderstar/jumbojett-test",
+    "description": "Testing the jumbojett PHP OpenID Connect Basic Client",
+    "type": "project",
+    "require": {
+        "jumbojett/openid-connect-php": "^0.9.10"
+    }
+}
